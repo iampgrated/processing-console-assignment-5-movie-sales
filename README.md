@@ -14,12 +14,12 @@ int movie1Sales = 32000000;
 Note that the variables in this assignment can also be set up using arrays (see evaluation below for further details).
 
 ## First movie
-Complete the following (IN THIS ORDER) for the FIRST movie:
+Complete the following (in this order) for the first movie:
 1. Using a ```println```, print out the title of the movie.
 2. Using ```If… Else``` statements, print something similar to: 
   * ```This is a blockbuster movie!!``` if sales are greater than 100 million dollars (or some other appropriate threshold).
   * ```This movie is not very popular.```  if sales are less than the threshold.
-3. Then ask the user: ```Are you interested in seeing this movie?``` 
+3. Then ask the user: ```Are you interested in seeing this movie?```. The program will get the answer to the question by reading and interpreting the appropriate file (see assignment 3 and 4 for how to do this).
 4. Using ```If… Else``` statements:
   * If they answer no, print them a discount coupon to encourage them to come (see the Final 10% section below).  
   * If they answer yes, explain what time it is playing at your favourite theatre (you can make this up).
