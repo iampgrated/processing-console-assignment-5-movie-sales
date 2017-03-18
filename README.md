@@ -46,8 +46,11 @@ Get this working for the first movie, and then do the same thing for the next fo
 
 ## Evaluation
 60% - Completion of the above requirements for the first movie
+
 20% - Completion of the above for each additional movie (80% if arrays are used for variables)
+
 10% - Good Coding practices (comments, indenting, commits, etc.)
+
 Final 10% 
 * For each movie, add an ```If… Else``` statement inside the ‘no I am not interested in attending this movie’ option.  Once the user has answered no, ask the user if he or she likes popcorn.  
 * If the answer is yes, offer them a discount on a combo that includes popcorn (make something up) and print a coupon similar to the example below.
