@@ -36,6 +36,7 @@ sales1
 sales2
 ...
 ```
+Another possibility would be to use two files, one for the titles of the movies and the second for their sales numbers.
 4. Using ```If… Else``` statements:
   * If they answer no, print them a discount coupon to encourage them to come (see the Final 10% section below).  
   * If they answer yes, explain what time it is playing at your favourite theatre (you can make this up).
