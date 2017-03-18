@@ -40,10 +40,10 @@ Note: You can print the same coupon for each movie.
 Example coupon:
 ```
 ****************************************************
-*     Here is a special offer to encourage you to attend            *
-*     Where the Wild Things Are:                                            *
-*     Super Combo                                                                  *
-*     (Large Pop, Belly-Buster Popcorn, 8 Miles of licorice)       *
-*     $8.95 (regular price is $11.95)                                        *
+*     Here is a special offer to encourage you to attend            
+*     Where the Wild Things Are:                                            
+*     Super Combo                                                                  
+*     (Large Pop, Belly-Buster Popcorn, 8 Miles of licorice)       
+*     $8.95 (regular price is $11.95)                                        
 ****************************************************
 ```
