@@ -19,7 +19,23 @@ Complete the following (in this order) for the first movie:
 2. Using ```If… Else``` statements, print something similar to: 
   * ```This is a blockbuster movie!!``` if sales are greater than 100 million dollars (or some other appropriate threshold).
   * ```This movie is not very popular.```  if sales are less than the threshold.
-3. Then ask the user: ```Are you interested in seeing this movie?```. The program will get the answer to the question by reading and interpreting the appropriate file (see assignment 3 and 4 for how to do this).
+3. Then ask the user: ```Are you interested in seeing this movie?```. The program will get the answer to the question by reading and interpreting the appropriate file (see assignment 3 and 4 for how to do this). IT is up to you to decide on how this file should be structured but some possibility are
+```
+filmName1
+sales1
+filmName2
+sales2
+...
+```
+or
+```
+filmName1
+filmName2
+...
+sales1
+sales2
+...
+```
 4. Using ```If… Else``` statements:
   * If they answer no, print them a discount coupon to encourage them to come (see the Final 10% section below).  
   * If they answer yes, explain what time it is playing at your favourite theatre (you can make this up).
